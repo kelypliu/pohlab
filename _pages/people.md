@@ -63,4 +63,52 @@ permalink: /people/
       helping streamline patient care and clinical research workflows.</p>
     </td>
     <td style="vertical-align:top; width:30%; text-align:center; border:none;">
-      <img src="{{ '/images/people/tony_han.png' | relative_url }}"
+      <img src="{{ '/images/people/tony_han.png' | relative_url }}" alt="Tony Han"
+           style="width:250px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
+      <strong>Email:</strong> than@bccrc.ca<br>
+    </td>
+  </tr>
+</table>
+
+## TRAINEES
+<table style="border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="vertical-align:top; padding-right:20px; border:none;">
+      <h3>Dr. Kelly YP Liu, MSc, PhD</h3>
+      <p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
+        POST-DOCTORAL RESEARCH FELLOW<br>
+      </p>
+      <p style="font-weight:bold;">Research interests:</p>
+      <p>Oral cancer<br>
+      Cervical lymph node metastasis<br>
+      Biomarker discovery and validation<br>
+      Spatial biology<br>
+      Analytical pipeline and package development</p>
+      <p>Kelly’s research focuses on oral cancer, with particular emphasis on cervical lymph node metastasis. Her work
+      integrates biomarker discovery and validation with spatial biology approaches to better understand tumor progression.
+      She is also actively involved in developing analytical pipelines and software packages to enhance data integration
+      and reproducibility in translational cancer research.</p>
+    </td>
+    <td style="vertical-align:top; width:30%; text-align:center; border:none;">
+      <img src="{{ '/images/people/kelly_liu.png' | relative_url }}" alt="Kelly Liu"
+           style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
+      <strong>Email:</strong> keliu@bccrc.ca<br>
+    </td>
+  </tr>
+</table>
+
+<table style="border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="vertical-align:top; padding-right:20px; border:none;">
+      <h3>Dr. Matthew Novello, DDS</h3>
+      <p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
+        Orthodontics Program Masters Student<br>
+      </p>
+      <p style="font-weight:bold;">Research interests:</p>
+    </td>
+    <td style="vertical-align:top; width:30%; text-align:center; border:none;">
+      <img src="{{ '/images/people/matthew_novello.png' | relative_url }}" alt="Matthew Novello"
+           style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
+    </td>
+  </tr>
+</table>
