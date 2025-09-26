@@ -3,7 +3,7 @@ layout: page
 title: "People"
 permalink: /people/
 
-
+---
 ## Principal Investigator
 ** Catherine Poh, DDS, PhD, FRCD(C), Dipl ABOMP**
 Certified Oral and Maxillofacial Pathologist
