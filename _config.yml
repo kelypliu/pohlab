@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Poh Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Bench to Bedside Oral Oncology Research"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name ""
+description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://kelypliu.github.io/pohlab/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Oral Oncology and Oral Diseases"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Making clinical impact through research"
+  location         : "Vancouver, BC, Canada"
+  employer         : "University of British Columbia | BC Cancer Research Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL
