@@ -10,7 +10,7 @@ permalink: /people/
 <td style="vertical-align:top; padding-right:20px; border:none;">
 
 <h3>Dr. Catherine Poh, DDS, PhD, FRCDC, Dipl. ABOMP</h3>
-<p style="font-size:13px; color:#bbb !important; margin-top:0; line-height:1.4;">
+<p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
 Professor, Oral Oncology & Translational Research<br>
 Certified Oral and Maxillofacial Pathologist<br>
 Director, Oral Medicine and Oral Pathology Residency Program<br>
@@ -40,7 +40,7 @@ Dr. Poh is a clinician-scientist at the BC Cancer Research Centre and UBC. Her w
 <td style="vertical-align:top; padding-right:20px; border:none;">
 
 <h3>Dr. Sarah Zhu, MD</h3>
-<p style="font-size:13px; color:#bbb !important; margin-top:0; line-height:1.4;">
+<p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
 GENOMIC HISTOLOGICAL TECHNICIAN<br>
 </p>
 <p>
@@ -61,7 +61,7 @@ Sarah is a Senior Technician with more than 20 years of extensive experience on 
 <tr style="border:none;">
 <td style="vertical-align:top; padding-right:20px; border:none;">
 <h3>Tony Han</h3>
-<p style="font-size:13px; color:#bbb !important; margin-top:0; line-height:1.4;">
+<p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
 CLINICAL RESEARCH COORINATORR<br>
 </p>
 <p>
@@ -85,7 +85,7 @@ He also facilitates referral triage between community dentists, surgeons, oral m
 <td style="vertical-align:top; padding-right:20px; border:none;">
 
 <h3>Dr. Kelly YP Liu, MSc, PhD</h3>
-<p style="font-size:13px; color:#bbb !important; margin-top:0; line-height:1.4;">
+<p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
 POST-DOCTORAL RESEARCH FELLOW<br>
 </p>
 <p style="font-weight:bold;">Research interests:</br>
@@ -111,7 +111,7 @@ She is also actively involved in developing analytical pipelines and software pa
 <td style="vertical-align:top; padding-right:20px; border:none;">
 
 <h3>Dr. Matthew Novello, DDS</h3>
-<p style="font-size:13px; color:#bbb !important; margin-top:0; line-height:1.4;">
+<p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
 Orthodontics Program Masters Stuent<br>
 </p>
 <p style="font-weight:bold;">Research interests:</br>
