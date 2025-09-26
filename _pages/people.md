@@ -4,36 +4,26 @@ title: "People"
 permalink: /people/
 
 ---
-## Principal Investigator
-** Catherine Poh, DDS, PhD, FRCD(C), Dipl ABOMP**
-Certified Oral and Maxillofacial Pathologist
-Director, Oral Medicine and Oral Pathology Residency Program
-Professor, Faculty of Dentistry, University of British Columbia
-Canadian Research Chair (Tier 1) for Oral Cancer Research
-Distinguished Scientist, Basic and Translational Research, BC Cancer Research Institute
+## PRINCIPAL INVESTIGATOR
+<table style="border:none; width:100%;">
+<tr style="border:none;">
+<td style="vertical-align:top; width:70%; padding-right:20px; border:none;">
 
----
-## Current Team
+<h3>Dr. Catherine Poh</h3>
+<strong>Professor, Oral Oncology & Translational Research</strong><br><br>
+Dr. Poh is a clinician-scientist at the BC Cancer Research Centre and UBC.  
+Her work focuses on discovery, prevention, and empowerment in oral cancer research —  
+from early detection of premalignant lesions to translation of biomarker-based diagnostics.  
 
-- **Sarah Zhu** – TECHNICIAN
-  *Research focus: cytology and risk stratification*  
+<br><br>
+<strong>Email:</strong> cpoh@bccrc.ca<br>
+<a href="https://scholar.google.com/">Google Scholar Profile</a>
 
-- **Tony Han** – CLINICAL RESEARCH COORDINATOR
-  *Research focus: biomarker discovery in oral cancer*  
+</td>
+<td style="vertical-align:top; width:30%; text-align:center; border:none;">
 
-- **Kelly Liu, Ph.D** – POST-DOCTORAL FELLOW
-  *Expertise: tissue imaging and molecular biology*
+<img src="/images/people/catherine_poh.jpg" alt="Catherine Poh" style="width:200px; border-radius:50%;">
 
-- **Matthew Novello, DDS** - M.Sc.
-
-- **Michale Vins**
-- **Justin Lam**
-- **Renee Chai**
-- **Kyle Ma**
-
----
-
-## Alumni
-- **Andrew Huang** – DMD 2029
-- **Emily Wang** – DMD 2028
-- **William Lee** - DMD 2026
+</td>
+</tr>
+</table>
