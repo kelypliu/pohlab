@@ -25,8 +25,9 @@ Dr. Poh is a clinician-scientist at the BC Cancer Research Centre and UBC. Her w
 </td>
 
 <td style="vertical-align:top; width:30%; text-align:center; border:none;">
-  <img src="/images/people/catherine_poh.png" alt="Catherine Poh"
-       style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
+<img src="{{ site.baseurl }}/images/people/catherine_poh.png"
+     alt="Catherine Poh"
+     style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;">
   <strong>Email:</strong> cpoh@bccrc.ca<br>
 </td>
 
