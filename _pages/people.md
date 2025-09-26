@@ -25,7 +25,7 @@ Dr. Poh is a clinician-scientist at the BC Cancer Research Centre and UBC. Her w
 </td>
 
 <td style="vertical-align:top; width:30%; text-align:center; border:none;">
-<img src="/pohlab/images/people/catherine_poh.png"
+<img src="/images/people/catherine_poh.png"
      alt="Catherine Poh"
      style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;">
   <strong>Email:</strong> cpoh@bccrc.ca<br>
@@ -49,7 +49,7 @@ Sarah is a Senior Technician with more than 20 years of extensive experience on 
 </td>
 
 <td style="vertical-align:top; width:30%; text-align:center; border:none;">
-  <img src="/pohlab/images/people/sarah_zhu.png" alt="Sarah Zhu"
+  <img src="/images/people/sarah_zhu.png" alt="Sarah Zhu"
        style="width:250px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
   <strong>Email:</strong> szhu@bccrc.ca<br>
 </td>
@@ -71,7 +71,7 @@ He also facilitates referral triage between community dentists, surgeons, oral m
 </td>
 
 <td style="vertical-align:top; width:30%; text-align:center; border:none;">
-  <img src="/pohlab/images/people/tony_han.png" alt="Tony Han"
+  <img src="/images/people/tony_han.png" alt="Tony Han"
        style="width:250px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
   <strong>Email:</strong> than@bccrc.ca<br>
 </td>
@@ -101,7 +101,7 @@ She is also actively involved in developing analytical pipelines and software pa
 </td>
 
 <td style="vertical-align:top; width:30%; text-align:center; border:none;">
-  <img src="/pohlab/images/people/kelly_liu.png" alt="Kelly Liu"
+  <img src="/images/people/kelly_liu.png" alt="Kelly Liu"
        style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
   <strong>Email:</strong> keliu@bccrc.ca<br>
 </td>
@@ -119,6 +119,6 @@ Orthodontics Program Masters Stuent<br>
 </td>
 
 <td style="vertical-align:top; width:30%; text-align:center; border:none;">
-  <img src="/pohlab/images/people/matthew_novello.png" alt="Matthew Novello"
+  <img src="/images/people/matthew_novello.png" alt="Matthew Novello"
        style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
 </td>
