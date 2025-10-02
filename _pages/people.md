@@ -9,7 +9,7 @@ permalink: /people/
   <tr style="border:none;">
     <td style="vertical-align:top; padding-right:20px; border:none;">
       <h3>Dr. Catherine Poh, DDS, PhD, FRCDC, Dipl. ABOMP</h3>
-      <p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
+      <p style="font-size:16px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
         Professor, Oral Oncology & Translational Research<br>
         Certified Oral and Maxillofacial Pathologist<br>
         Director, Oral Medicine and Oral Pathology Residency Program<br>
@@ -37,7 +37,7 @@ permalink: /people/
   <tr style="border:none;">
     <td style="vertical-align:top; padding-right:20px; border:none;">
       <h3>Dr. Sarah Zhu, MD</h3>
-      <p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
+      <p style="font-size:16px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
         GENOMIC HISTOLOGICAL TECHNICIAN<br>
       </p>
       <p>Sarah is a Senior Technician with more than 20 years of extensive experience on oral tissue handling and
@@ -55,7 +55,7 @@ permalink: /people/
   <tr style="border:none;">
     <td style="vertical-align:top; padding-right:20px; border:none;">
       <h3>Tony Han</h3>
-      <p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
+      <p style="font-size:16px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
         CLINICAL RESEARCH COORDINATOR<br>
       </p>
       <p>Tony is a Clinical Research Coordinator skilled in patient screening, recruitment, and data collection.
@@ -101,7 +101,7 @@ permalink: /people/
   <tr style="border:none;">
     <td style="vertical-align:top; padding-right:20px; border:none;">
       <h3>Dr. Matthew Novello, DDS</h3>
-      <p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
+      <p style="font-size:16px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
         Orthodontics Program Masters Student<br>
       </p>
       <p style="font-weight:bold;">Research interests:</p>
