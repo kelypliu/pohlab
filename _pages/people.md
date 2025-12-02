@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: default
 title: "People"
 permalink: /people/
 ---
 
-## PRINCIPAL INVESTIGATOR
+# PRINCIPAL INVESTIGATOR
 <table style="border:none; width:100%;">
   <tr style="border:none;">
-    <td style="vertical-align:top; padding-right:20px; border:none;">
+    <td style="font-size:24px;vertical-align:top; padding-right:20px; border:none;">
       <h3>Dr. Catherine Poh, DDS, PhD, FRCDC, Dipl. ABOMP</h3>
       <p style="font-size:16px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
         Professor, Oral Oncology & Translational Research<br>
@@ -15,7 +15,7 @@ permalink: /people/
         Director, Oral Medicine and Oral Pathology Residency Program<br>
         Professor, Faculty of Dentistry, University of British Columbia<br>
         Canadian Research Chair (Tier 1) for Oral Cancer Research<br>
-        Distinguished Scientist, Integrative Oncology, BC Cancer Research Centre<br><br>
+        Distinguished Scientist, Integrative Oncology, BC Cancer Research Centre<br>
       </p>
       <p>
         Dr. Poh is a clinician-scientist at the BC Cancer Research Centre and UBC. Her work focuses on discovery,
@@ -32,7 +32,7 @@ permalink: /people/
   </tr>
 </table>
 
-## STAFF
+# STAFF
 <table style="border:none; width:100%;">
   <tr style="border:none;">
     <td style="vertical-align:top; padding-right:20px; border:none;">
@@ -45,7 +45,7 @@ permalink: /people/
     </td>
     <td style="vertical-align:top; width:30%; text-align:center; border:none;">
       <img src="{{ '/images/people/sarah_zhu.png' | relative_url }}" alt="Sarah Zhu"
-           style="width:250px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
+           style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
       <strong>Email:</strong> szhu@bccrc.ca<br>
     </td>
   </tr>
@@ -64,13 +64,13 @@ permalink: /people/
     </td>
     <td style="vertical-align:top; width:30%; text-align:center; border:none;">
       <img src="{{ '/images/people/tony_han.png' | relative_url }}" alt="Tony Han"
-           style="width:250px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
+           style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
       <strong>Email:</strong> than@bccrc.ca<br>
     </td>
   </tr>
 </table>
 
-## TRAINEES
+# TRAINEES
 <table style="border:none; width:100%;">
   <tr style="border:none;">
     <td style="vertical-align:top; padding-right:20px; border:none;">
@@ -109,6 +109,69 @@ permalink: /people/
     <td style="vertical-align:top; width:30%; text-align:center; border:none;">
       <img src="{{ '/images/people/matthew_novello.png' | relative_url }}" alt="Matthew Novello"
            style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
+    </td>
+  </tr>
+</table>
+
+<table style="border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="vertical-align:top; padding-right:20px; border:none;">
+      <h3>Renee Chai</h3>
+      <p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
+        TBD<br>
+      </p>
+      <p style="font-weight:bold;">Research interests:</p>
+      <p><br>
+      <br></p>
+      <p>TBD
+</p>
+    </td>
+    <td style="vertical-align:top; width:30%; text-align:center; border:none;">
+      <img src="{{ '/images/people/Chai, Renee lab profile picture.jpeg' | relative_url }}" alt=""
+           style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
+      <strong>Email:</strong> TBD<br>
+    </td>
+  </tr>
+</table>
+
+<table style="border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="vertical-align:top; padding-right:20px; border:none;">
+      <h3>Michael Vins</h3>
+      <p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
+        Co-op Student<br>
+      </p>
+      <p style="font-weight:bold;">Research interests:</p>
+      <p>Spatial biology<br>
+      Machine learning<br></p>
+      <p>Michael is a biochemistry student at UBC. His current work assists in designing workflows for spatial analysis of tumour microenvironments, particularly utilising pathology software such as QuPath and machine learning.
+</p>
+    </td>
+    <td style="vertical-align:top; width:30%; text-align:center; border:none;">
+      <img src="{{ '/images/people/Vins_Michael.jpg' | relative_url }}" alt="" 
+     style="width:300px; aspect-ratio:1/1; object-fit:cover; object-position: center 35%; border-radius:50%;"> <br>
+      <strong>Email:</strong> mvins@bccrc.ca<br>
+    </td>
+  </tr>
+</table>
+
+<table style="border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="vertical-align:top; padding-right:20px; border:none;">
+      <h3>Justin Lam</h3>
+      <p style="font-size:13px; color:#1c73a6 !important; margin-top:0; line-height:1.4;">
+        Co-op Student<br>
+      </p>
+      <p style="font-weight:bold;">Research interests:</p>
+      <p><br>
+      <br></p>
+      <p>TBD
+</p>
+    </td>
+    <td style="vertical-align:top; width:30%; text-align:center; border:none;">
+      <img src="{{ '/images/people/Lam_Justin.jpg' | relative_url }}" alt=""
+           style="width:300px; aspect-ratio:1/1; object-fit:cover; border-radius:50%;"><br>
+      <strong>Email:</strong> julam@bccrc.ca<br>
     </td>
   </tr>
 </table>
