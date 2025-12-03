@@ -5,32 +5,204 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<section class="pub-hero">
+  <p>Recent work from the lab. Source: <a href="https://scholar.google.com/citations?user=djhdJ0QAAAAJ&hl=en&sortby=pubdate">Google Scholar</a>.</p>
+</section>
 
+<div class="pub-list">
+  <article class="pub-card">
+    <div class="pub-year">2016</div>
+    <div class="pub-body">
+      <h3>Nodal Disease Burden for Early-Stage Oral Cancer</h3>
+      <p class="pub-meta">KYP Liu, JS Durham, J Wu, DW Anderson, E Prisman, CF Poh · JAMA Otolaryngology–Head & Neck Surgery</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:eflP2zaiRacC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2016</div>
+    <div class="pub-body">
+      <h3>Robust Protocol for Using Multiplexed Droplet Digital PCR to Quantify Somatic Copy Number Alterations</h3>
+      <p class="pub-meta">CB Hughesman, XJD Lu, KYP Liu, Y Zhu, CF Poh, C Haynes · PLoS One 11(8)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:q3oQSFYPqjQC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2016</div>
+    <div class="pub-body">
+      <h3>Cost-Effectiveness Analysis of Using Loss of Heterozygosity to Manage Premalignant Oral Dysplasia</h3>
+      <p class="pub-meta">I Cromwell, DA Regier, SJ Peacock, CF Poh · The Oncologist</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:BrmTIyaxlBUC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2016</div>
+    <div class="pub-body">
+      <h3>Automated Segmentation of Oral Mucosa from Wide-Field OCT Images</h3>
+      <p class="pub-meta">RN Goldan, AMD Lee, L Cahill, K Liu, C MacAulay, CF Poh, P Lane · SPIE BiOS</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:D_sINldO8mEC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2016</div>
+    <div class="pub-body">
+      <h3>Towards Biopsy Guidance of Oral Lesions with Wide-Field OCT Imaging</h3>
+      <p class="pub-meta">AM Lee, R Goldan, H Pahlevaninezhad, G Hohert, K Liu, CE MacAulay, ... · Optical Tomography and Spectroscopy</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:eJXPG6dFmWUC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2016</div>
+    <div class="pub-body">
+      <h3>Improving Public Awareness and Outcomes for Oral Cancer</h3>
+      <p class="pub-meta">CF Poh · Future Science OA 2(1)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:pyW8ca7W8N0C" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2016</div>
+    <div class="pub-body">
+      <h3>Fluorescence Visualization–Guided Surgery for Early-Stage Oral Cancer</h3>
+      <p class="pub-meta">CF Poh, DW Anderson, JS Durham, J Chen, KW Berean, CE MacAulay, ... · JAMA Otolaryngology–Head & Neck Surgery 142(3)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:bEWYMUwI8FkC" class="pub-link">Scholar</a>
+    </div>
+  </article>
 
+  <article class="pub-card">
+    <div class="pub-year">2015</div>
+    <div class="pub-body">
+      <h3>Quantitative Pathology Toolbox: Predicting Progression Risk for Oral Premalignant Lesions</h3>
+      <p class="pub-meta">C MacAulay, M Rosin, L Zhang, C Poh, M Williams, M Guillaud · Cancer Prevention Research 8(10 Suppl.)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:tOudhMTPpwUC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2015</div>
+    <div class="pub-body">
+      <h3>Wide-Field In Vivo Oral OCT Imaging</h3>
+      <p class="pub-meta">AMD Lee, L Cahill, K Liu, C MacAulay, C Poh, P Lane · Biomedical Optics Express 6(7)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:JV2RwH3_ST0C" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2015</div>
+    <div class="pub-body">
+      <h3>Impact of Total Cisplatin Dose on Outcomes in Locally Advanced Oropharyngeal SCC</h3>
+      <p class="pub-meta">DL Uhlman, AY Ye, M Lagman, J Wu, CF Poh, C Ho · ASCO Annual Meeting Proc. 33(15_suppl)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:CHSYGLWDkRkC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2015</div>
+    <div class="pub-body">
+      <h3>Autofluorescence & Reflectance Imaging for Early Cancer Detection</h3>
+      <p class="pub-meta">CE MacAulay, C Poh, M Rosin, S Lam, M Follen, H Pahlevaninezhad, ... · Bio-Optics: Design and Application</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:blknAaTinKkC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2015</div>
+    <div class="pub-body">
+      <h3>Passive Endoscopic Polarization-Sensitive OCT with Fiber-Based Components</h3>
+      <p class="pub-meta">L Cahill, AMD Lee, H Pahlevaninezhad, S Ng, CE MacAulay, C Poh, ... · SPIE BiOS</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:j3f4tGmQtD8C" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2015</div>
+    <div class="pub-body">
+      <h3>Cost-Effective Strategy to Triage Patients with Oral Premalignant Lesions</h3>
+      <p class="pub-meta">YK Liu, I Cromwell, A Karsan, CF Poh · Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology 120(3)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:08ZZubdj9fEC" class="pub-link">Scholar</a>
+    </div>
+  </article>
 
+  <article class="pub-card">
+    <div class="pub-year">2014</div>
+    <div class="pub-body">
+      <h3>Variation in Treatment of Severe Oral Dysplasia: Knowledge Translation in the COOLS Trial</h3>
+      <p class="pub-meta">MP Rosin, KK Corbett, H Jiang, T Lubpairee, CF Poh, L Zhang · Cancer Research 74(19 Suppl.)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:VOx2b1Wkg3QC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2014</div>
+    <div class="pub-body">
+      <h3>Assessing Risk Markers for Oral Cancer Recurrence</h3>
+      <p class="pub-meta">DM Laronde, L Zhang, PM Williams, B Chan, JH Park, CF Poh, MP Rosin · Cancer Research 74(19 Suppl.)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:J_g5lzvAfSwC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2014</div>
+    <div class="pub-body">
+      <h3>Recurring DNA Copy Number Gain at Chromosome 9p13 in Oral Premalignant Lesions</h3>
+      <p class="pub-meta">R Towle, IFL Tsui, Y Zhu, S MacLellan, CF Poh, C Garnis · Cancer Medicine 3(5)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:4JMBOYKVnBMC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2014</div>
+    <div class="pub-body">
+      <h3>Decision Making on Detection and Triage of Oral Mucosa Lesions in Community Dental Practices</h3>
+      <p class="pub-meta">DM Laronde, PM Williams, TG Hislop, C Poh, S Ng, L Zhang, MP Rosin · Community Dentistry and Oral Epidemiology 42(4)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:dhFuZR0502QC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2014</div>
+    <div class="pub-body">
+      <h3>Automated Classification of Oral Premalignant Lesions Using Image Cytometry</h3>
+      <p class="pub-meta">J Baik, Q Ye, L Zhang, C Poh, M Rosin, C MacAulay, M Guillaud · Cellular Oncology 37(3)</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:5Ul4iDaHHb8C" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2014</div>
+    <div class="pub-body">
+      <h3>Depth Sensitive Oblique Polarized Reflectance Spectroscopy of Oral Epithelial Tissue</h3>
+      <p class="pub-meta">MK Jimenez, S Lam, C Poh, K Sokolov · SPIE Translational Biophotonics</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:35N4QoGY0k4C" class="pub-link">Scholar</a>
+    </div>
+  </article>
+  <article class="pub-card">
+    <div class="pub-year">2014</div>
+    <div class="pub-body">
+      <h3>Direct Autofluorescence Visualization to Guide Breast Specimen Grossing: Proof-of-Concept</h3>
+      <p class="pub-meta">S El Hallani, C Poh, S Hakim, P Lane, D Gravel, S Robertson, S Islam · Laboratory Investigation 94</p>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=djhdJ0QAAAAJ&sortby=pubdate&citation_for_view=djhdJ0QAAAAJ:2P1L_qKh6hAC" class="pub-link">Scholar</a>
+    </div>
+  </article>
+</div>
+
+<style>
+:root {
+  --pub-bg: #f7fafc;
+  --pub-border: #e2e8f0;
+  --pub-text: #1f2937;
+  --pub-sub: #4a5568;
+  --pub-accent: #1c73a6;
+  --pub-shadow: 0 10px 28px rgba(28,115,166,0.10);
+}
+[data-theme="dark"] {
+  --pub-bg: #0f172a;
+  --pub-border: #1f2a44;
+  --pub-text: #e2e8f0;
+  --pub-sub: #cbd5e1;
+  --pub-accent: #7dd3fc;
+  --pub-shadow: 0 12px 32px rgba(0,0,0,0.35);
+}
+.pub-hero { max-width: 860px; margin: 0 auto 2rem; text-align: center; }
+.pub-hero h1 { margin: 0 0 0.4rem; color: var(--pub-text); }
+.pub-hero p { margin: 0; color: var(--pub-sub); }
+.pub-hero a { color: var(--pub-accent); }
+.pub-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1rem; }
+.pub-card { background: var(--pub-bg); border: 1px solid var(--pub-border); border-radius: 12px; padding: 0.9rem 1rem; display: grid; grid-template-columns: 78px 1fr; gap: 0.75rem; box-shadow: var(--pub-shadow); }
+.pub-year { font-weight: 700; color: var(--pub-accent); font-size: 1rem; }
+.pub-body h3 { margin: 0 0 0.35rem; font-size: 1rem; color: var(--pub-text); }
+.pub-meta { margin: 0 0 0.35rem; color: var(--pub-sub); line-height: 1.4; }
+.pub-link { color: var(--pub-accent); font-weight: 600; text-decoration: none; }
+.pub-link:hover { text-decoration: underline; }
+@media (max-width: 600px) { .pub-card { grid-template-columns: 1fr; } .pub-year { font-size: 0.95rem; } }
+</style>
