@@ -4,7 +4,9 @@ title: "People"
 permalink: /people/
 ---
 
-<section class="people-hero">
+<div class="page-wide page-top people-page">
+
+<section class="people-hero hero-centered">
   <h1>People</h1>
   <p>Clinical scientists, pathologists, and trainees advancing early oral cancer detection.</p>
 </section>
@@ -93,6 +95,8 @@ permalink: /people/
   </article>
 </div>
 
+</div>
+
 <style>
 :root {
   --people-bg: #f8fbff;
@@ -112,9 +116,8 @@ permalink: /people/
   --people-shadow: 0 12px 32px rgba(0,0,0,0.35);
   --people-img-border: #334155;
 }
-.people-hero { max-width: 820px; margin: 0 auto 2.5rem; text-align: center; }
 .people-hero h1 { color: var(--people-text); }
-.people-hero p { color: var(--people-subtext); margin: 0.5rem 0 0; }
+.people-hero p { color: var(--people-subtext); }
 h2 { color: var(--people-text); }
 .people-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; }
 .person-card { background: var(--people-bg); border: 1px solid var(--people-border); border-radius: 14px; padding: 1.1rem; display: grid; grid-template-columns: 110px 1fr; gap: 1rem; align-items: start; box-shadow: var(--people-shadow); color: var(--people-text); }

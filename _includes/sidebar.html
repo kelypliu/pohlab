@@ -1,8 +1,15 @@
 {% include base_path %}
 
-{% if page.author_profile or layout.author_profile or page.sidebar %}
+{% assign show_author = false %}
+{% if page.author_profile or layout.author_profile %}
+  {% if page.url == "/" %}
+    {% assign show_author = true %}
+  {% endif %}
+{% endif %}
+
+{% if show_author or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if show_author %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
