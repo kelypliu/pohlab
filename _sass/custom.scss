@@ -1,0 +1,49 @@
+.page-wide {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  width: 100%;
+}
+
+.page-top {
+  padding-top: 2rem;
+}
+
+.hero-centered {
+  max-width: 860px;
+  margin: 0 auto 2rem;
+  text-align: center;
+
+  h1 {
+    margin: 0 0 0.4rem;
+    font-weight: 700;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+.center-archive {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-right: 0;
+  width: 100%;
+}
+
+.center-archive .list__item {
+  padding-right: 0;
+  width: 100%;
+}
+
+.center-archive h1.page__title {
+  text-align: center;
+  margin: 0 0 0.4rem;
+  font-weight: 700;
+}
+
+.news-lead {
+  text-align: center;
+  margin: 0;
+  color: var(--global-text-color);
+}

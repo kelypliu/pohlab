@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Oral Oncology and Oral Diseases"
+  avatar           : "placeholder group photo.jpg"
+  name             : "Poh Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Making clinical impact through research"
+  bio              : "Clinical researchers advancing early oral cancer detection and management."
   location         : "Vancouver, BC, Canada"
-  employer         : "UBC | BC Cancer"
+  employer         : "UBC | BCCRC"
   uri              : # URL
   email            : #"none@example.org" 
 
