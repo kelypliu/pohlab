@@ -1,0 +1,36 @@
+residents:
+  - program: "OMOP"
+    last: "El Maghrabi"
+    first: "Amr"
+    year: 2026
+    current: ""
+  - program: "OMOP"
+    last: "Novack"
+    first: "Rachel"
+    year: 2025
+    current: ""
+
+dmd:
+  - program: "DMD"
+    last: "Huang"
+    first: "Andrew"
+    year: 2025
+  - program: "DMD"
+    last: "Wang"
+    first: "Emily"
+    year: 2025
+    current: ""
+
+graduates:
+  - program: "MSc"
+    last: "Jeon"
+    first: "James"
+    year: 2022
+    current: ""
+
+undergraduates:
+  - program: "Microbiology"
+    last: "Pepin"
+    first: "Catherine"
+    year: 2024
+    current: ""

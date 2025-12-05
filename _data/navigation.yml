@@ -17,8 +17,11 @@ main:
   - title: "News"
     url: /news/    
 
+  #- title: "Alumni"
+  #  url: /alumni/    
+
   - title: "Alumni"
-    url: /alumni/    
+    url: /alumni_brief/  
     
   #- title: "Portfolio"
   #  url: /portfolio/

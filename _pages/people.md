@@ -17,7 +17,9 @@ permalink: /people/
     <img src="{{ '/images/people/catherine_poh.png' | relative_url }}" alt="Catherine Poh">
     <div>
       <h3>Dr. Catherine Poh</h3>
-      <p class="role">Professor, Oral Oncology & Translational Research</p>
+      <p class="role">Professor, Dept. Oral Biological and Medical Sciences, Faculty of Dentistry, UBC</p>
+      <p class="role">Senior Scientst, Basic and Translational Research, BCCRI</p>
+      <p class="role">Oral Pathologist, Anatomical Pathology, VGH</p>
       <p class="bio">Canada Research Chair (Tier 1), clinician-scientist leading early detection and biomarker-based diagnostics for premalignant oral lesions; Director of the Oral Medicine & Pathology Residency Program at UBC.</p>
       <p class="meta"><strong>Email:</strong> cpoh@bccrc.ca</p>
     </div>
@@ -65,11 +67,20 @@ permalink: /people/
       <p class="bio">Orthodontics program master's student contributing to collaborative research.</p>
     </div>
   </article>
+  
+  <article class="person-card">
+    <img src="{{ '/images/people/maple_lei.png' | relative_url }}" alt="Matthew Novello">
+    <div>
+      <h3>Maple Lei, BSc</h3>
+      <p class="role">Bioinformatics Master's Student</p>
+      <p class="bio">Application of computational tools to decode oral cancer with a multi-omic lens, aiming to pinpoint biomarkers that flag progression and recurrence early.</p>
+    </div>
+  </article>
   <article class="person-card">
     <img src="{{ '/images/people/Chai, Renee lab profile picture.jpeg' | relative_url }}" alt="Renee Chai">
     <div>
       <h3>Renee Chai</h3>
-      <p class="role">Research Assistant</p>
+      <p class="role">Directed Study</p>
       <p class="bio">Role and bio forthcoming.</p>
     </div>
   </article>
