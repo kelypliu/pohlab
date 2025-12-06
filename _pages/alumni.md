@@ -65,7 +65,7 @@ permalink: /alumni/
                         <tr><th>Program</th><th>Last Name</th><th>First Name</th><th>Year</th><th>Current</th></tr>
                     </thead>
                 <tbody>
-                    {% for item in site.data.alumni.graduates %}
+                    {% for item in site.data.alumni.graduate %}
                 <tr>
                     <td>{{ item.program }}</td>
                     <td>{{ item.last }}</td>
@@ -88,7 +88,7 @@ permalink: /alumni/
                         <tr><th>Program</th><th>Last Name</th><th>First Name</th><th>Year</th><th>Current</th></tr>
                     </thead>
                 <tbody>
-                    {% for item in site.data.alumni.undergraduates %}
+                    {% for item in site.data.alumni.undergraduate %}
                 <tr>
                     <td>{{ item.program }}</td>
                     <td>{{ item.last }}</td>
