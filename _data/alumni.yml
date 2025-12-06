@@ -9,6 +9,21 @@ residents:
     first: "Rachel"
     year: 2025
     current: ""
+  - program: "OMOP"
+    last: "Sperandio"
+    first: "Felipe"
+    year: 2022
+    current: "Assistant Professor, University of Saskatchewan"
+  - program: "OMOP"
+    last: "Lee"
+    first: "Nathan"
+    year: 2021
+    current: "Dr. Maico D. Melo, Inc. Victoria, BC"
+  - program: "OMOP"
+    last: "Gruza"
+    first: "Amanda"
+    year: 2019
+    current: "Assistant Professor, University of Saskatchewan"
 
 dmd:
   - program: "DMD"
