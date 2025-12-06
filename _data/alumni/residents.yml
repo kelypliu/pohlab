@@ -24,29 +24,3 @@ residents:
     first: "Amanda"
     year: 2019
     current: "Assistant Professor, University of Saskatchewan"
-
-dmd:
-  - program: "DMD"
-    last: "Huang"
-    first: "Andrew"
-    year: 2025
-    current: ""
-  - program: "DMD"
-    last: "Wang"
-    first: "Emily"
-    year: 2025
-    current: ""
-
-graduates:
-  - program: "MSc"
-    last: "Jeon"
-    first: "James"
-    year: 2022
-    current: ""
-
-undergraduates:
-  - program: "Microbiology"
-    last: "Pepin"
-    first: "Catherine"
-    year: 2024
-    current: ""
