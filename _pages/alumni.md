@@ -1,3 +1,5 @@
+<p>DEBUG: {{ site.data.alumni | jsonify }}</p>
+
 ---
 layout: default
 title: "Alumni"
