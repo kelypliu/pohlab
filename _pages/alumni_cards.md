@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Alumni"
-permalink: /alumni/
+permalink: /alumni_cards/
 alumni:
   - name: "Sample Alum"
     role: "Former role at Poh Lab (years here)"

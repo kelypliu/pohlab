@@ -21,7 +21,7 @@ main:
   #  url: /alumni/    
 
   - title: "Alumni"
-    url: /alumni_brief/  
+    url: /alumni/  
     
   #- title: "Portfolio"
   #  url: /portfolio/

@@ -30,6 +30,7 @@ dmd:
     last: "Huang"
     first: "Andrew"
     year: 2025
+    current: ""
   - program: "DMD"
     last: "Wang"
     first: "Emily"
