@@ -4,7 +4,7 @@ title: "Alumni"
 permalink: /alumni/
 ---
 
-<p>DEBUG: {{ site.data.alumni | jsonify }}</p>
+<!-- <p>DEBUG: {{ site.data.alumni | jsonify }}</p>-->
 
 <div class="page-wide page-top alumni-page">
     <h1>Alumni</h1>
