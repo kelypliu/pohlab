@@ -208,4 +208,4 @@ permalink: /alumni/
 
 </style>
 
-<script src="{{ '/assets/js/alumni.js' | relative_url }}"></script>
+<script src="{{ 'pohlab/assets/js/alumni.js' | relative_url }}"></script>
