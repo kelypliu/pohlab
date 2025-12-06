@@ -1,0 +1,20 @@
+{
+    "residents": [
+      { "program": "OMOP", "last": "El Maghrabi", "first": "Amr", "year": 2026, "current": "" },
+      { "program": "OMOP", "last": "Novack", "first": "Rachel", "year": 2025, "current": "" },
+      { "program": "OMOP", "last": "Sperandio", "first": "Felipe", "year": 2022, "current": "Assistant Professor, University of Saskatchewan" },
+      { "program": "OMOP", "last": "Lee", "first": "Nathan", "year": 2021, "current": "Dr. Maico D. Melo, Inc. Victoria, BC" },
+      { "program": "OMOP", "last": "Gruza", "first": "Amanda", "year": 2019, "current": "Assistant Professor, University of Saskatchewan" }
+    ],
+    "dmd": [
+      { "program": "DMD", "last": "Huang", "first": "Andrew", "year": 2025, "current": "" },
+      { "program": "DMD", "last": "Wang", "first": "Emily", "year": 2025, "current": "" }
+    ],
+    "graduate": [
+      { "program": "MSc", "last": "Jeon", "first": "James", "year": 2022, "current": "" }
+    ],
+    "undergraduate": [
+      { "program": "Microbiology", "last": "Pepin", "first": "Catherine", "year": 2024, "current": "" }
+    ]
+  }
+  
