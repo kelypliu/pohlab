@@ -1,10 +1,19 @@
 {
     "residents": [
-      { "program": "OMOP", "last": "El Maghrabi", "first": "Amr", "year": 2026, "current": "OMOP" },
-      { "program": "OMOP", "last": "Novack", "first": "Rachel", "year": 2025, "current": "" },
-      { "program": "OMOP", "last": "Sperandio", "first": "Felipe", "year": 2022, "current": "Assistant Professor, University of Saskatchewan" },
-      { "program": "OMOP", "last": "Lee", "first": "Nathan", "year": 2021, "current": "Dr. Maico D. Melo, Inc. Victoria, BC" },
-      { "program": "OMOP", "last": "Gruza", "first": "Amanda", "year": 2019, "current": "Assistant Professor, University of Saskatchewan" }
+      { "program": "OMOP", "last": "El MAGHRABI", "first": "Amr", "year": 2026, "current": "OMOP" },
+      { "program": "OMOP", "last": "NOVACK", "first": "Rachel", "year": 2025, "current": "" },
+      { "program": "OMOP", "last": "SPERANDIO", "first": "Felipe", "year": 2022, "current": "Assistant Professor, University of Saskatchewan" },
+      { "program": "OMOP", "last": "LEE", "first": "Nathan", "year": 2021, "current": "Dr. Maico D. Melo, Inc. Victoria, BC" },
+      { "program": "OMOP", "last": "GRUZA", "first": "Amanda", "year": 2019, "current": "Assistant Professor, University of Saskatchewan" },
+      { "program": "OMOP", "last": "SAINI", "first": "Rajin", "year": 2017, "current": "OMOP" },
+      { "program": "OMOP", "last": "SAMIM", "first": "FIROOZEH", "year": 2016, "current": "Oral Medicine Specialist, Private Clinic, BC" },
+      { "program": "OMOP", "last": "TALEGHANI", "first": "MARYAM", "year": 2015, "current": "Oral Medicine Specialist, Private Clinic, BC" },
+      { "program": "OMOP", "last": "LIN", "first": "Jun Rui", "year": 2014, "current": "Physician, Sunnybrook Health Sciences Centre" },
+      { "program": "OMOP", "last": "GU", "first": "Yang", "year": 2013, "current": "Oral Pathologist, Halifax, BC" },
+      { "program": "OMOP", "last": "TSUKADA", "first": "Yoko", "year": 2012, "current": "Attending Staff, VGH, BC" },
+      { "program": "OMOP", "last": "SEKHON", "first": "Pawandeep", "year": 2012, "current": "GPR, Portland, Oregon" },
+      { "program": "OMOP", "last": "CHAN", "first": "Bertrand", "year": 2008, "current": "Oral Medicine Specialist, BC" },
+      { "program": "OMOP", "last": "NG", "first": "Samson", "year": 2007, "current": "Oral Medicine Specialist, BC" }
     ],
     "dmd": [
       { "program": "DMD", "last": "Huang", "first": "Andrew", "year": 2025, "current": "" },
