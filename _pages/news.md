@@ -10,6 +10,10 @@ news_items:
   - title: "Tier 1 Canada Research Chair"
     image: /images/news/post_poh_chair.jpg
     text: "We are delighted to share that Dr. Catherine Poh has been appointed a Tier 1 Canada Research Chair."
+
+  - title: "Visit us at Pacific Dental Conference 2026"
+    image: /images/news/post_pdc2026.png
+    text: "..."
 ---
 
 <p class="news-lead">Stay up to date with lab news and announcements.</p>
@@ -18,7 +22,7 @@ news_items:
 {% for item in page.news_items %}
   <div class="news-card">
     {% if item.image %}
-      <img class="news-card-img" src="{{ item.image | prepend: base_path }}">
+      <img class="news-card-img" src="{{ site.baseurl }}{{ item.image }}">
     {% endif %}
     <h3 class="news-card-title">{{ item.title }}</h3>
     <p class="news-card-excerpt">{{ item.text }}</p>
