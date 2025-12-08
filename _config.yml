@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images/lablogo.png
+  avatar           : profile.png
   name             : "Poh Lab"
   pronouns         : # example: "she/her"  
   bio              : "Clinical researchers advancing early oral cancer detection and management."
