@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
-    // Accordion behavior
+
+    // Accordion behaviour
     const acc = document.getElementsByClassName("accordion-btn");
     for (let i = 0; i < acc.length; i++) {
         acc[i].addEventListener("click", function () {
@@ -15,10 +16,11 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    // Load JSON
+    // Load JSON file
     fetch("/pohlab/assets/data/alumni.json")
         .then(response => response.json())
         .then(data => {
+            console.log("Loaded JSON:", data);      // <--- useful debug line
             populateTable("residents-table", data.residents);
             populateTable("dmd-table", data.dmd);
             populateTable("graduate-table", data.graduate);
@@ -27,14 +29,15 @@ document.addEventListener("DOMContentLoaded", function () {
         .catch(err => console.error("JSON load error:", err));
 });
 
+// Helper to fill tables
 function populateTable(id, list) {
     const tbody = document.getElementById(id);
     if (!tbody || !list) return;
 
-    tbody.innerHTML = ""; // clear
+    tbody.innerHTML = "";
 
     list.forEach(item => {
-        const row = `
+        tbody.innerHTML += `
         <tr>
             <td>${item.program || ""}</td>
             <td>${item.last || ""}</td>
@@ -42,6 +45,5 @@ function populateTable(id, list) {
             <td>${item.year || ""}</td>
             <td>${item.current || item.institution || ""}</td>
         </tr>`;
-        tbody.innerHTML += row;
     });
 }

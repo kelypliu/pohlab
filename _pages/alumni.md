@@ -86,7 +86,7 @@ permalink: /alumni/
                         </tr>
                     </thead>
 
-                    <tbody id="undergraduate-table"></tbody>
+                    <tbody id="undergrad-table"></tbody>
                 </table>
             </div>
         </div>
@@ -195,4 +195,4 @@ permalink: /alumni/
 
 </style>
 
-<script src="{{ '/pohlab/assets/js/alumni.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/alumni.js' | relative_url }}"></script>
