@@ -120,29 +120,29 @@ permalink: /people/
 
 <h2>Residents</h2>
 <div class="people-grid">
+
   <article class="person-card">
-    <div class="person-bg" style="--bg-img: url('{{ '/images/people/amr_el.png | relative_url }}')"></div>
+    <div class="person-bg" style="--bg-img: url('{{ '/images/people/amr_el.png' | relative_url }}')"></div>
     <div class="person-gradient"></div>
     <div class="person-content">
       <h3>Dr. Amr El Maghrabi</h3>
       <p class="role">OMOP</p>
-      <p class="bio"></p>
+      <p class="bio"> Bio forthcoming.</p>
       <p class="meta"><strong>Email:</strong> </p>
     </div>
   </article>
 
-<div class="people-grid">
   <article class="person-card">
-    <div class="person-bg" style="--bg-img: url('{{ '/images/people/sarah_kamounah.png | relative_url }}')"></div>
+    <div class="person-bg" style="--bg-img: url('{{ '/images/people/sarah_kamounah.png' | relative_url }}')"></div>
     <div class="person-gradient"></div>
     <div class="person-content">
       <h3>Dr. Sarah Kamounah</h3>
       <p class="role">OMOP</p>
-      <p class="bio"></p>
+      <p class="bio"> Bio forthcoming.</p>
       <p class="meta"><strong>Email:</strong> </p>
     </div>
   </article>
-</div>
+
 </div>
 
 <style>
