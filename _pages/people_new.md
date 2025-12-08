@@ -17,11 +17,15 @@ permalink: /people/
     <div class="person-bg" style="--bg-img: url('{{ '/images/people/catherine_poh.jpeg' | relative_url }}')"></div>
     <div class="person-gradient"></div>
     <div class="person-content">
-      <h3>Dr. Catherine Poh</h3>
-      <p class="role">Professor, Dept. Oral Biological and Medical Sciences, Faculty of Dentistry, UBC</p>
-      <p class="role">Senior Scientst, Dept. Basic and Translational Research, BCCRI</p>
-      <p class="role">Oral Pathologist, Dept. Anatomical Pathology, VGH</p>
-      <p class="bio">Canada Research Chair (Tier 1), clinician-scientist leading early detection and biomarker-based diagnostics for premalignant oral lesions; Director of the Oral Medicine & Pathology Residency Program at UBC.</p>
+      <h3>Dr. Catherine Poh, DDS, PhD, FRCD(C), Dipl. ABOMP</h3>
+    <div class="role">
+      <span>Certified Oral and Maxillofacial Pathologist</span><br>
+      <span>Director, Oral Medicine and Oral Pathology Residency Program</span><br>
+      <span>Professor, Dept. Oral Biological and Medical Sciences, Faculty of Dentistry, UBC</span><br>
+      <span>Tier 1 Canada Research Chair in Oral Cancer Research</span><br>
+      <span>Distinguished Scientist, Dept. Basic and Translational Research, BCCRI</span><br>
+    </div>
+      <p class="bio">Clinician-scientist leading early detection and biomarker-based diagnostics for premalignant oral lesions.</p>
       <p class="meta"><strong>Email:</strong> cpoh@bccrc.ca</p>
     </div>
   </article>
