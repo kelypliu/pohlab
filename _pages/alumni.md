@@ -83,7 +83,7 @@ permalink: /alumni/
 
         <!-- Undergraduates -->
         <div class="accordion-item">
-            <button class="accordion-btn">Undergraduates</button>
+            <button class="accordion-btn">Undergraduate Students</button>
             <div class="accordion-panel">
                 <table>
                     <thead>
@@ -183,7 +183,7 @@ permalink: /alumni/
 .accordion-panel table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.95rem
+  font-size: 0.75rem
 }
 
 .accordion-panel th {
