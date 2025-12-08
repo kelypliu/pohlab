@@ -18,20 +18,16 @@ permalink: /alumni/
             <div class="accordion-panel">
                 <table>
                     <thead>
-                        <tr><th>Program</th><th>Last Name</th><th>First Name</th><th>Year</th><th>Current</th></tr>
+                        <tr>
+                            <th>Program</th>
+                            <th>Last Name</th>
+                            <th>First Name</th>
+                            <th>Year</th>
+                            <th>Current</th>
+                        </tr>
                     </thead>
-                    <tbody>
-                        {% for item in site.data.alumni.residents %}
-                    <tr>
-                        <td>{{ item.program }}</td>
-                        <td>{{ item.last }}</td>
-                        <td>{{ item.first }}</td>
-                        <td>{{ item.year }}</td>
-                        <td>{{ item.current }}</td>
-                    </tr>
-                    {% endfor %}
-                </tbody>
-            </table>
+                    <tbody id="residents-table"></tbody>
+                </table>
             </div>
         </div>
 
@@ -59,21 +55,18 @@ permalink: /alumni/
         <div class="accordion-item">
             <button class="accordion-btn">Graduate Students</button>
             <div class="accordion-panel">
-                <table>
+            <table>
                     <thead>
-                        <tr><th>Program</th><th>Last Name</th><th>First Name</th><th>Year</th><th>Current</th></tr>
+                        <tr>
+                            <th>Program</th>
+                            <th>Last Name</th>
+                            <th>First Name</th>
+                            <th>Year</th>
+                            <th>Current</th>
+                        </tr>
                     </thead>
-                <tbody>
-                    {% for item in site.data.alumni.graduate %}
-                <tr>
-                    <td>{{ item.program }}</td>
-                    <td>{{ item.last }}</td>
-                    <td>{{ item.first }}</td>
-                    <td>{{ item.year }}</td>
-                    <td>{{ item.current }}</td>
-                </tr>
-                {% endfor %}
-                </tbody>
+
+                    <tbody id="graduate-table"></tbody>
             </table>
             </div>
         </div>
@@ -84,20 +77,17 @@ permalink: /alumni/
             <div class="accordion-panel">
                 <table>
                     <thead>
-                        <tr><th>Program</th><th>Last Name</th><th>First Name</th><th>Year</th><th>Current</th></tr>
+                        <tr>
+                            <th>Program</th>
+                            <th>Last Name</th>
+                            <th>First Name</th>
+                            <th>Year</th>
+                            <th>Current</th>
+                        </tr>
                     </thead>
-                <tbody>
-                    {% for item in site.data.alumni.undergraduate %}
-                <tr>
-                    <td>{{ item.program }}</td>
-                    <td>{{ item.last }}</td>
-                    <td>{{ item.first }}</td>
-                    <td>{{ item.year }}</td>
-                    <td>{{ item.current }}</td>
-                </tr>
-                    {% endfor %}
-                </tbody>
-            </table>
+
+                    <tbody id="undergraduate-table"></tbody>
+                </table>
             </div>
         </div>
     </div>
@@ -205,4 +195,4 @@ permalink: /alumni/
 
 </style>
 
-<script src="{{ '/pohlab/assets/data/alumni.js' | relative_url }}"></script>
+<script src="{{ '/pohlab/assets/js/alumni.js' | relative_url }}"></script>
