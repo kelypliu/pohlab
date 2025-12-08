@@ -82,7 +82,7 @@ permalink: /alumni/
                             <th>Last Name</th>
                             <th>First Name</th>
                             <th>Year</th>
-                            <th>Current</th>
+                            <th>Institution</th>
                         </tr>
                     </thead>
 
