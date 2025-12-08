@@ -1,7 +1,8 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Tier 1 Canada Research Chair'
+date: 2025-10-23
 permalink: /posts/2012/08/blog-post-4/
+image: /images/news/post_poh_chair.jpg
 tags:
   - cool posts
   - category1
