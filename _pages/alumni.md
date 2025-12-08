@@ -41,20 +41,17 @@ permalink: /alumni/
             <div class="accordion-panel">
                 <table>
                     <thead>
-                        <tr><th>Program</th><th>Last Name</th><th>First Name</th><th>Year</th><th>Current</th></tr>
+                        <tr>
+                            <th>Program</th>
+                            <th>Last Name</th>
+                            <th>First Name</th>
+                            <th>Year</th>
+                            <th>Current</th>
+                        </tr>
                     </thead>
-                    <tbody>
-                        {% for item in site.data.alumni.dmd %}
-                    <tr>
-                        <td>{{ item.program }}</td>
-                        <td>{{ item.last }}</td>
-                        <td>{{ item.first }}</td>
-                        <td>{{ item.year }}</td>
-                        <td>{{ item.current }}</td>
-                    </tr>
-                    {% endfor %}
-                </tbody>
-            </table>
+
+                    <tbody id="dmd-table"></tbody>
+                </table>
             </div>
         </div>
 
@@ -208,4 +205,4 @@ permalink: /alumni/
 
 </style>
 
-<script src="{{ 'pohlab/assets/js/alumni.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/alumni.js' | relative_url }}"></script>
