@@ -28,13 +28,28 @@ author_profile: true
     <img class="rh-image" src="{{ '/images/research/p53.jpg' | relative_url }}">
 
     <h2 class="rh-title">
-      Rethinking Dsyplasa: p53 Patterns Reveal Hidden High-Risk Oral Lesions
+      Rethinking Dsyplasia: p53 Patterns Reveal Hidden High-Risk Oral Lesions
     </h2>
 
     <p class="rh-citation">Modern Pathology 2023</p>
 
     <p class="rh-text">
         The diagnosis of oral epithelial dysplasia traditionally relies on assessing architectural and cytologic atypia using the mild–moderate–severe grading system. However, some lesions classified as low grade still progress rapidly to squamous cell carcinoma (SCC), underscoring the limitations of conventional grading. In this study, we evaluated 203 cases of oral epithelial dysplasia, proliferative verrucous leukoplakia, lichenoid lesions, and reactive mucosal changes to characterize their p53 immunohistochemical (IHC) staining patterns. We identified four wild-type patterns and three abnormal patterns, each reflecting distinct biological behavior. All lichenoid and reactive lesions showed wild-type patterns, while HPV-associated dysplasia presented with null-like/basal-sparing or mid-epithelial/basal-sparing patterns. Notably, 42.5% of oral epithelial dysplasia cases (51/120) exhibited an abnormal p53 pattern, and these lesions had a significantly higher risk of progression to invasive SCC compared with p53 wild-type lesions (21.6% vs. 0%, P < .0001). p53 abnormal dysplasia was also strongly associated with dyskeratosis and/or acantholysis. Based on these findings, we propose the term “p53 abnormal oral epithelial dysplasia” to identify lesions at high malignant potential—regardless of histologic grade—and recommend that such lesions be managed outside the traditional grading system to prevent delayed intervention. 
+    </p>
+  </div>
+
+<!-- Highlight 3 -->
+  <div class="rh-card">
+    <img class="rh-image" src="{{ '/images/research/rh3.png' | relative_url }}">
+
+    <h2 class="rh-title">
+      Investigating immune cell distributions to predict the risk of metastasis, regional recurrence, and other negative outcomes in oral squamous cell carcinoma
+    </h2>
+
+    <p class="rh-citation">Ongoing</p>
+
+    <p class="rh-text">
+          Previously, we hypothesised that tumour-associated immune cell aggregates had an effect on clinical outcomes in oral squamous cell carcinoma (OSCC) (Lopes et al, 2017). However, until now there has been little quantitative understanding of how immune cell distribution affects OSCC outcomes like regional failure and recurrence, making the decision to pursue costly treatments such as elective neck dissections largely guesswork. This current work focuses on determining the precise parameters of immune cell clustering, including distances to other immune clusters and tumour buds, cluster densities, and so forth, all in order to predict the likelihood of negative outcomes and inform clinical decisions.
     </p>
   </div>
 
