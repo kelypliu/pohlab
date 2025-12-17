@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Oral Oncology from Bench to Bedside"
+title: "Advancing Oral Cancer Prevention and Early Detection - From Bench-to-Bedside"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Dr. Poh's lab focuses on the development and application of screening and diagnostic strategies for early detection, risk assessment, and management of oral cancer and precancerous diseases. 
+The Poh Lab is dedicated to earlier detection and better risk prediction for oral cancer and precancers - so patients can get the right care at the right time. 
 
-We are currently working on translating several molecular and imaging tests (both non-invasive and invasive) for triaging patients to appropriate clinical management according to their risk of cancer progression, as well as identifying and integrating prognostic markers of nodal diseases for oral cancer patients. 
+We develop molecular and imaging tests (non-invasive and tissue-based) to support risk-based triage and clinical decision-making. We also study prognostic markers in oral cancer, including predictors of nodal disease. 
 
-Complementing benchtop research, the lab also collaborates on longitudinal and large-scale clinical studies for both precancerous and cancerous lesions, as well as establishing a population-based oral premalignant biobank through working with dental communities, the BC Oral Biopsy Service, and the clinic of Integrative Triage for Patients with Oral Pre-malignant Lesions.
+We pair risk stratification with intervention research - developing and testing strategies and clinical tools to prevent progression of high-risk lesions and reduce the burden of oral cancer.
